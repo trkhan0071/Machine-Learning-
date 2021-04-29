@@ -1,2 +1,2 @@
 # Machine-Learning-
-1. Predicting car price from Automobile data set. Used Linear regression and Lasso regression. Dataset have both categorical and numerical columns. Ddi an EDA before training and testing.
+1. Predicting car price from Automobile data set.This dataset has both categorical and numerical columns.I did data cleanig and EDA before training and testing. Used different regreession algorithms and metrices. 
